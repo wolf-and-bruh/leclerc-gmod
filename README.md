@@ -1,8 +1,8 @@
 # leclerc-gmod
 My first attempt to create simple cheat, it's unstable, unfinished, so don't take it very seriously!
 
-#(If you want to continue developing this cheat, you can fork it, but the name must be not same as this repository.)
-#(If you want to ask some questions, feel free to contact me in discord: forsazh222222)
+# (If you want to continue developing this cheat, you can fork it, but the name must be not same as this repository.)
+# (If you want to ask some questions, feel free to contact me in discord: forsazh222222)
 
 This cheat includes:
 Lua Loader (99% undetected),
@@ -10,7 +10,7 @@ Aimbot (Legit, Silent),
 Autoshoot (doesnt work stable on darkrp's babygod),
 Snapline ESP,
 Square ESP,
-Chams,
+Chams (unstable),
 Bunnyhop
 Autostrafe (Legit, Silent, Multidirectional),
 ConVar "spoofing" (sv_cheats, sv_allowcslua),
