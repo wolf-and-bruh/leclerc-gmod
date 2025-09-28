@@ -1,4 +1,5 @@
 # leclerc-gmod
+# WARNING!!! CHEAT COMPILES WITH AVX2 INSTRUCTIONS BY DEFAULT, IF YOUR CPU DOESNT SUPPORT IT, THEN COMPILE WITH SSE2 INSTRUCTIONS!!!
 My first attempt to create simple cheat (Garry's Mod x64), it's unstable, unfinished, so don't take it very seriously!
 
 # (If you want to continue developing this cheat, you can fork it, but the name must be not same as this repository.)
