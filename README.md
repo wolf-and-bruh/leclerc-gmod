@@ -1,5 +1,5 @@
 # leclerc-gmod
-My first attempt to create simple cheat, it's unstable, unfinished, so don't take it very seriously!
+My first attempt to create simple cheat (Garry's Mod x64), it's unstable, unfinished, so don't take it very seriously!
 
 # (If you want to continue developing this cheat, you can fork it, but the name must be not same as this repository.)
 # (If you want to ask some questions, feel free to contact me in discord: forsazh222222)
