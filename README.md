@@ -3,7 +3,7 @@
 # CHECK RELEASES FOR SSE2 VERSION (WORKS ON ALL CPUS) AND FOR AVX2 (MODERN CPUS)
 My first attempt to create simple cheat (Garry's Mod x64), it's unstable, unfinished, so don't take it very seriously!
 
-# (If you want to continue developing this cheat, you can fork it, but the name must be not same as this repository.)
+# (If you want to continue developing this cheat, you can fork it, but the name must be not same as this repository and CREDIT ME!!)
 # (If you want to ask some questions, feel free to contact me in discord: forsazh222222)
 
 This cheat includes: 
